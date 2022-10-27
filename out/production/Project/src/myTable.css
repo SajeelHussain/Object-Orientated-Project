@@ -1,0 +1,15 @@
+#tablex .table-column {
+                 -fx-alignment: CENTER;
+                 -fx-control-inner-background: #000000
+                  -fx-control-inner-background-alt: #FFFFFF
+                }
+.table-row-cell:odd {
+   -fx-background-color: Deepskyblue;
+}
+.table-row-cell:even {
+   -fx-background-color: Dodgerblue;
+}
+.table{
+    -fx-color: white;
+
+}
